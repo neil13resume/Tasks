@@ -1,0 +1,8 @@
+D:\Visual Studio Projects\ProjectConversion\Service\ConversionService\ConversionService\bin\Debug\ConversionService.dll
+D:\Visual Studio Projects\ProjectConversion\Service\ConversionService\ConversionService\bin\Debug\ConversionService.pdb
+D:\Visual Studio Projects\ProjectConversion\Service\ConversionService\ConversionService\obj\Debug\ConversionService.csprojAssemblyReference.cache
+D:\Visual Studio Projects\ProjectConversion\Service\ConversionService\ConversionService\obj\Debug\ConversionService.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ProjectConversion\Service\ConversionService\ConversionService\obj\Debug\ConversionService.dll
+D:\Visual Studio Projects\ProjectConversion\Service\ConversionService\ConversionService\obj\Debug\ConversionService.pdb
+D:\Visual Studio Projects\ProjectConversion\Output\ConversionService.dll
+D:\Visual Studio Projects\ProjectConversion\Output\ConversionService.pdb
